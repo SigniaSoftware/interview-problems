@@ -30,10 +30,8 @@ your `DECISIONS.md`; the brief explains what we're looking for.
 
 ## Submitting
 
-Submit your work as a **public GitHub repository** and send us the link by the deadline in your invitation. Keep
+Submit your work as a **public GitHub repository** and send us the link by the agreed deadline. Keep
 your real commit history; please don't squash it. The [Submit](BRIEF.md#submit) section of the brief lists the
 documents to include.
-
-If anything is unclear about the process itself, reply to your invitation email.
 
 All data here is synthetic. Nothing you build will be used in our product.
