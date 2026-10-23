@@ -60,7 +60,7 @@ simplified, scores better than more features that half work.
 
 ## Submit
 
-A git repo. Keep your real commit history, don't squash. It should contain:
+A **public GitHub repository**; send us the link. Keep your real commit history, don't squash. It should contain:
 
 1. `README.md`: how to run it, an architecture sketch, and what works.
 2. `DECISIONS.md`: your key design decisions, plus a **shortcut list**. For every corner you cut, say why that is
